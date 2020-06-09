@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: cornflowerblue;
+}
+
+.form_0002_details {
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 3px white;
+    margin: 60px;
+}
+
+.form_0002_details input {
+    padding: 10px;
+    margin: 10px;
+}
+
+.find_student {
+    padding: 20px;
+}

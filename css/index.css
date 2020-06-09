@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#heading_0001_details {
+    text-align: center;
+    color: gold;
+    padding: 15px;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+    text-shadow: 1px 1px 2px black;
+    position: relative;
+}
+
+.admin_0001_penal {
+    float: right;
+    position: relative;
+    padding: 5px;
+}
+
+.admin_0001_penal a {
+    text-decoration: none;
+    color: red;
+}
+
+.form_0002_details {
+    padding: 30px;
+    text-align: center;
+}
+
+.form_0002_details input {
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+}
